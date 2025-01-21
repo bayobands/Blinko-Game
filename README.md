@@ -7,6 +7,13 @@ Inspired by the creative gameplay of Balatro, Binko puts a fun and unique spin o
 
 ## Setup
 
-1. Install the Binko-1_0_0-windows.exe file
-2. Run the file
-3. Have Fun !
+1. Download the fitness_tracker_gui.py File
+
+    Clone or download the file from this repository and save it to a location on your computer.
+
+2. Run the Installer
+
+    Double-click on the Binko-1_0_0-windows.exe file to launch the installation process.
+
+3. Enjoy
+   Once the installation is complete, the game should start automtically.
