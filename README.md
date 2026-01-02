@@ -9,7 +9,7 @@ Inspired by the creative gameplay of Balatro, Binko puts a fun and unique spin o
 
 1. Download the Binko File
 
-    Clone or download the file from this repository and save it to a location on your computer.
+    Download the file from this repository and save it on your computer.
 
 2. Run the Installer
 
