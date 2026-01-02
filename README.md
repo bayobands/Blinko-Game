@@ -1,4 +1,4 @@
-# Gdevelop Game
+# BINKO (Gdevelop Game)
 Inspired by the creative gameplay of Balatro, Binko puts a fun and unique spin on the classic Plinko experience! In this game, players drop a ball into a dynamic grid of pegs, aiming to score big by strategically obaining and using powerups.
 
 
@@ -7,7 +7,7 @@ Inspired by the creative gameplay of Balatro, Binko puts a fun and unique spin o
 
 ## Setup
 
-1. Download the fitness_tracker_gui.py File
+1. Download the Binko File
 
     Clone or download the file from this repository and save it to a location on your computer.
 
