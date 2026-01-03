@@ -6,7 +6,7 @@ Inspired by the creative gameplay of *Balatro*, **BINKO** puts a fun twist on th
 
 ## Released
 
-*For testing or review, you can download the latest .exe from GitHub Releases.
+For testing or review, you can download the latest .exe from GitHub Releases.
    
 ## Built With
 - GDevelop
